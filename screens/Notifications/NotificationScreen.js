@@ -32,8 +32,8 @@ const NotificationScreen = ({ navigation }) => {
             },
             {
                 key: '2',
-                name: '25% Off use code InfluencerPro25',
-                description: 'Use code InfluencerPro25 for your booking appintment between 20th sept to 25th oct and get 25% off.',
+                name: '25% Off use code Influencer25',
+                description: 'Use code Influencer25 for your booking appintment between 20th Jun to 25th Jul and get 25% off.',
                 icon: <AntDesign name="tag" size={28} color="white" />
             },
             {
