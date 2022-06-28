@@ -15,7 +15,7 @@ const WelcomeScreen = ({ navigation }) => {
         return (
             <IntlPhoneInput
                 onChangeText={({ phoneNumber }) => setPhoneNumber(phoneNumber)}
-                defaultCountry="US"
+                defaultCountry="CAN"
                 containerStyle={styles.phoneNumberContainerStyle}
                 placeholder="Phone Number"
                 dialCodeTextStyle={{ ...Fonts.white16Regular }}
