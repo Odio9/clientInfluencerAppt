@@ -45,7 +45,7 @@ export const Fonts = {
 }
 
 export const Colors = {
-    primary: '#6979F8',
+    primary: 'green',
     lightGray: '#DBDBDB',
 }
 
