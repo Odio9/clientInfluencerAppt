@@ -83,7 +83,7 @@ const ConsultaionScreen = ({ navigation }) => {
             <View style={styles.dateAndTimeContainerStyle}>
                 <View style={{ flexDirection: 'row', alignItems: 'center', }}>
                     <FontAwesome5 name="calendar-alt" size={16} color="gray" />
-                    <Text style={{ ...Fonts.black16Regular, marginLeft: Sizes.fixPadding + 5.0 }}>28-June</Text>
+                    <Text style={{ ...Fonts.black16Regular, marginLeft: Sizes.fixPadding + 5.0 }}>28-July</Text>
                 </View>
                 <View style={{ flexDirection: 'row', alignItems: 'center' }}>
                     <MaterialIcons name="access-time" size={18} color="gray" />
@@ -142,7 +142,7 @@ const ConsultaionScreen = ({ navigation }) => {
                 style={styles.confirmAndPayButtonStyle}
                 onPress={() => navigation.navigate('PaymentMethod')}>
                 <View style={styles.confirmButtonStyle}>
-                    <Text style={{ ...Fonts.white20Regular }}>Confirm &  Pay</Text>
+                    <Text style={{ ...Fonts.white20Regular }}>Confirm & Pay</Text>
                 </View>
             </TouchableOpacity>
         )
