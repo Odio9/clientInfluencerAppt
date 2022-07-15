@@ -27,7 +27,7 @@ const TabNavigator = createAppContainer(
                     ),
                 },
             },
-            Scedule: {
+            Schedule: {
                 screen: ScheduleScreen,
                 navigationOptions: {
                     tabBarLabel: 'Schedule',
