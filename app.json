@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DoctorPro",
-    "slug": "rn-doctorPro",
+    "name": "InfluencerPro",
+    "slug": "rn-influencerPro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -17,7 +17,7 @@
       "**/*"
     ],
     "ios": {
-      "bundleIdentifier": "com.rct.doctorpro",
+      "bundleIdentifier": "com.rct.influencerpro",
       "buildNumber": "1.0.1",
       "supportsTablet": true
     },
@@ -31,7 +31,7 @@
           "apiKey": "YOUR GOOGLE MAP API KEY HERE"
         }
       },
-      "package": "com.rct.doctorpro",
+      "package": "com.rct.influencerpro",
       "versionCode": 3
     },
     "web": {
